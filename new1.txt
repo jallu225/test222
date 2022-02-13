@@ -9,7 +9,7 @@
 9.  Update boost regexp from v1.76 to v1.78
 10. "Rename tab" name field enlargement (from 20 to 63 char!).
 11. Apply "crontab" file to the syntax highlighting of bash.
-
+######################
 
 More fixes & implementations detail:
 https://notepad-plus-plus.org/downloads/v8.2/
